@@ -1,0 +1,4 @@
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLL\bin\Release\BLL.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLL\bin\Release\BLL.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLL\obj\Release\BLL.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLL\obj\Release\BLL.pdb

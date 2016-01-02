@@ -1,0 +1,17 @@
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\bin\Debug\RomanNumbers2.exe.config
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\bin\Debug\RomanNumbers2.exe
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\bin\Debug\RomanNumbers2.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\bin\Debug\BLL.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\bin\Debug\BLL.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanIntConverter.g.cs
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\App.g.cs
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2_MarkupCompile.cache
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2_MarkupCompile.lref
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanIntConverter.baml
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.g.resources
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.Properties.Resources.resources
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.csproj.GenerateResource.Cache
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.exe
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2_Content.g.cs

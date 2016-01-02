@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1065]C:\Users\Korisnik1\Documents\Visual Studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLLTests.dll</TopNode>
+  <SelectedNode>[0-1011]BLLTests.RomanToIntTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1065]C:\Users\Korisnik1\Documents\Visual Studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLLTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1066]BLLTests" Expanded="true" />
+    <Node UniqueName="[0-1000]BLLTests.IntToRomanTests" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1001]BLLTests.IntToRomanTests.Convert_InputOutOfRange_ThrowException" Expanded="true" />
+    <Node UniqueName="[0-1011]BLLTests.RomanToIntTests" Expanded="true" Checked="true" />
+  </Nodes>
+</VisualState>

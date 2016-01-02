@@ -1,0 +1,8 @@
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLLTests.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLLTests.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLL.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\nunit.framework.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\bin\Debug\BLL.pdb
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\obj\Debug\BLLTests.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\obj\Debug\BLLTests.dll
+C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\BLLTests\obj\Debug\BLLTests.pdb
