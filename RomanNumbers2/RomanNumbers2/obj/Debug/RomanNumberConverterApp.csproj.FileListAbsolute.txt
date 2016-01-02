@@ -15,3 +15,6 @@ C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumb
 C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumberConverterApp.csproj.GenerateResource.Cache
 C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.exe
 C:\Users\Korisnik1\documents\visual studio 2015\Projects\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.pdb
+G:\TestProjectsGIT\TestRepository\RomanNumbers2\RomanNumbers2\bin\Debug\RomanNumbers2.exe.config
+G:\TestProjectsGIT\TestRepository\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.exe
+G:\TestProjectsGIT\TestRepository\RomanNumbers2\RomanNumbers2\obj\Debug\RomanNumbers2.pdb
