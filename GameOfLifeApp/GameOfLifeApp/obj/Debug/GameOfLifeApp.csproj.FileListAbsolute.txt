@@ -1,1 +1,14 @@
 G:\TestProjectsGIT\TestRepository\GameOfLife\GameOfLifeApp\GameOfLifeApp\bin\Debug\GameOfLifeApp.exe.config
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\bin\Debug\GameOfLifeApp.exe.config
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\bin\Debug\GameOfLifeApp.exe
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\bin\Debug\GameOfLifeApp.pdb
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\MainWindow.g.cs
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\App.g.cs
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp_MarkupCompile.cache
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp_MarkupCompile.lref
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\MainWindow.baml
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp.g.resources
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp.Properties.Resources.resources
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp.csproj.GenerateResource.Cache
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp.exe
+G:\TestProjectsGIT\TestRepository\GameOfLifeApp\GameOfLifeApp\obj\Debug\GameOfLifeApp.pdb

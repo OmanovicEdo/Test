@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-01-03" time="19:59:08">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="KORISNIK" user="Korisnik1" user-domain="Korisnik" />
+  <culture-info current-culture="hr-BA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll" executed="True" result="Success" success="True" time="0.043" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BLLTests" executed="True" result="Success" success="True" time="0.037" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="BoardTests" executed="True" result="Success" success="True" time="0.036" asserts="0">
+            <results>
+              <test-case name="BLLTests.BoardTests.GetIterationsDefault" executed="True" result="Success" success="True" time="0.029" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
