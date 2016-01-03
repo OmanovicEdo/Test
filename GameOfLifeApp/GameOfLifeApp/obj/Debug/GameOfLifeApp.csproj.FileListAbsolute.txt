@@ -1,0 +1,1 @@
+G:\TestProjectsGIT\TestRepository\GameOfLife\GameOfLifeApp\GameOfLifeApp\bin\Debug\GameOfLifeApp.exe.config
