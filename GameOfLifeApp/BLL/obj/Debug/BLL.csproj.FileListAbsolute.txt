@@ -1,4 +1,0 @@
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLL\bin\Debug\BLL.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLL\bin\Debug\BLL.pdb
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLL\obj\Debug\BLL.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLL\obj\Debug\BLL.pdb

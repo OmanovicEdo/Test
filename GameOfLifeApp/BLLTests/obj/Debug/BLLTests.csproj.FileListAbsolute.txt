@@ -1,9 +1,0 @@
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.pdb
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\nunit.framework.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\nunit.framework.xml
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\obj\Debug\BLLTests.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\obj\Debug\BLLTests.pdb
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLL.dll
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLL.pdb
-G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\obj\Debug\BLLTests.csprojResolveAssemblyReference.cache
