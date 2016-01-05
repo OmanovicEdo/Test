@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1013]G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll</TopNode>
+  <SelectedNode>[0-1013]G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1013]G:\TestProjectsGIT\TestRepository\GameOfLifeApp\BLLTests\bin\Debug\BLLTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1014]BLLTests" Expanded="true" />
+    <Node UniqueName="[0-1000]BLLTests.BoardTests" Expanded="true" />
+    <Node UniqueName="[0-1008]BLLTests.CellTests" Expanded="true" />
+  </Nodes>
+</VisualState>
